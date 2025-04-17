@@ -46,9 +46,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2025-04-17 060707](https://github.com/user-attachments/assets/83c6c013-35ee-47f7-b63c-3341ae0bd673)
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-17 060553](https://github.com/user-attachments/assets/584dbb06-8693-49f9-9290-99d073981168)
+
+### Name:ASHIKA TR
+### Register Number:212224220011
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
